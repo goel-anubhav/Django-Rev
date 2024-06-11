@@ -20,6 +20,19 @@ git clone https://github.com/goel-anubhav/Django-Rev.git
 
 cd Django-Rev
 ```
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+``` py -m venv env``` 
+
+``` .\env\Scripts\activate ```
+
+```pip install -r requirements.txt```
+
+``` py manage.py runserver ```
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://goel-anubhav.github.io/)
 
@@ -35,18 +48,5 @@ cd Django-Rev
 For support, email anubhavgoyal12062001@gmail.com
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/anubhav.g)
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-``` py -m venv env``` 
-
-``` .\env\Scripts\activate ```
-
-```pip install -r requirements.txt```
-
-``` py manage.py runserver ```
-
 
 
