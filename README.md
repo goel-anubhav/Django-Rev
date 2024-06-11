@@ -1,4 +1,16 @@
 
+# DRF CRUD
+
+Just basic DRF revision API, where basic concept like CRUD has been utilized.
+This API has functionalities like: 
+C: Create Data in the database
+R: Read Data from the database
+U: Update the existing data
+D: Delete the existing data
+
+
+
+
 ## Installation
 
 Install my-project with npm or yarn
@@ -23,3 +35,18 @@ cd Django-Rev
 For support, email anubhavgoyal12062001@gmail.com
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/anubhav.g)
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+``` py -m venv env``` 
+
+``` .\env\Scripts\activate ```
+
+```pip install -r requirements.txt```
+
+``` py manage.py runserver ```
+
+
+
